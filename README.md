@@ -1,2 +1,2 @@
-# Scaling Ansatzy for Protein Condensate Droplet Size Distributions
+# Scaling Ansatz for Protein Condensate Droplet Size Distributions
 
